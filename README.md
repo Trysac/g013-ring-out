@@ -24,12 +24,12 @@ Learn Junior Programmer pathway**, and was rebuilt on that idea as an original g
 
 ## Play it
 
-- **In your browser:** [trysac.github.io/Unit-4-Gameplay-Mechanics](https://trysac.github.io/Unit-4-Gameplay-Mechanics/)
+- **In your browser:** [trysac.github.io/g013-ring-out](https://trysac.github.io/g013-ring-out/)
 - **On itch.io:** [trysac.itch.io/ring-out](https://trysac.itch.io/ring-out)
 - **Get the code:** fork this repository, or clone it:
 
   ```bash
-  git clone https://github.com/Trysac/Unit-4-Gameplay-Mechanics.git
+  git clone https://github.com/Trysac/g013-ring-out.git
   ```
 
 ## Run it
